@@ -1,0 +1,13 @@
+mac$mac and cheese$12/23/21$pasta$5
+oj$orange juice$10/15/22$drink$3
+Coke$Coca Cola$10/09/21$drink$10
+triscuits$Triscuits crackers$11/24/21$snack$9
+milk$skim milk$10/23/21$drink$1
+mac$mac and cheese$12/23/21$pasta$8
+mac$mac and cheese$12/23/21$pasta$7
+primavera$chicken primavera$12/23/21$pasta$2
+primavera$chicken primavera$01/23/22$pasta$5
+goldfish$goldfish crackers$11/25/21$snack$4
+Coke$Coca Cola$10/09/21$drink$10
+tomato soup$Amy's tomato soup$01/15/22$soup$12
+mushroom soup$Amy's mushroom soup$01/15/22$soup$17
